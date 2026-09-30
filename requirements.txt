@@ -1,0 +1,8 @@
+tensorflow
+librosa
+soundfile
+numpy
+scikit-learn
+yt-dlp
+python-dotenv
+openai

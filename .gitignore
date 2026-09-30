@@ -1,0 +1,16 @@
+# Secrets
+.env
+gcp_key.json
+
+# Audio and Spectrogram Data
+*.wav
+*.npy
+
+# Machine Learning Models
+*.keras
+*.h5
+*.pkl
+
+# Python Caches
+__pycache__/
+*.pyc
